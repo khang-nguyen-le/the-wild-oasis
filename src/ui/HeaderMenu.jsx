@@ -2,7 +2,7 @@ import { useNavigate } from 'react-router-dom';
 import styled from 'styled-components';
 import { HiOutlineUser } from 'react-icons/hi2';
 
-import Logout from './logout';
+import Logout from './Logout';
 import ButtonIcon from './ButtonIcon';
 import DarkModeToggle from './DarkModeToggle';
 
